@@ -1,0 +1,18 @@
+
+.tableContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
